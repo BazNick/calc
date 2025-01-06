@@ -1,3 +1,3 @@
-module github.com/BazNick/go-package-lesson-1
+module calc
 
 go 1.22.1
